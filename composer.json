@@ -6,8 +6,8 @@
             "email": "balberto2013@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
 
-    }
+    },
+    "target-dir" : "Site/UserBundle"
 }
