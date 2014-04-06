@@ -1,5 +1,5 @@
 {
     "require": {
-        "myBundle" : "1.0"
+        "balbert/myBundle " : "1.0"
     }
 }
