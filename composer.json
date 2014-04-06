@@ -1,0 +1,5 @@
+{
+    "require": {
+        "myBundle" : "1.0"
+    }
+}
