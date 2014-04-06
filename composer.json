@@ -1,6 +1,13 @@
 {
-    "name" : "myBundle",
+    "name": "balbert/my-bundle",
+    "authors": [
+        {
+            "name": "Balbert Cisse",
+            "email": "balberto2013@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
     "require": {
-        "balbert/myBundle " : "1.0"
+
     }
 }
